@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brandonhawi/taskParser/issues"
   },
-  "homepage": "https://github.com/brandonhawi/taskParser#readme"
+  "homepage": "https://github.com/brandonhawi/taskParser#readme",
+  "dependencies": {
+    "pdfkit": "^0.10.0"
+  }
 }
